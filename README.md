@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
-### About Me 🚀
+
+### About Me 🚀<br>
 🎓  I love programming and like to do random projects and sometimes upload them to github if they're not complete trash lol</br>
 
 👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
