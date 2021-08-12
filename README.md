@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Divyansh
+
+ - Currently studying Information Technology at [ADGITM](https://adgitmdelhi.ac.in/) affiliated by [GGSIPU](http://www.ipu.ac.in/)
