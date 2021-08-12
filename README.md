@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### About Me 🚀<br>
 🎓  I love programming and like to do random projects and sometimes upload them to github if they're not complete trash lol</br>
 
-👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Competetive Programming, Machine Learning, Web Dev & I enjoy learning new things. </br>
 
  - Currently studying Information Technology at [ADGITM](https://adgitmdelhi.ac.in/) affiliated by [GGSIPU](http://www.ipu.ac.in/)
