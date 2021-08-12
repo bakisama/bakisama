@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 👨‍💻  I am passionate about Competetive Programming, Machine Learning, Web Dev & I enjoy learning new things. </br>
 
- - Currently studying Information Technology at [ADGITM](https://adgitmdelhi.ac.in/) affiliated by [GGSIPU](http://www.ipu.ac.in/)
+ - Sophomore at Information Technology at [ADGITM](https://adgitmdelhi.ac.in/) affiliated by [GGSIPU](http://www.ipu.ac.in/)
+ - Currently working on my portfolio website and Sudoku solver using Backtracking
