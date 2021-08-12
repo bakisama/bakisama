@@ -1,5 +1,4 @@
 ### Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Divyansh
-<br></br>
 <!--
 **bakisama/bakisama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 ### About Me 🚀
-🎓  I love programming and like to do random projects and sometimes upload them to github if they're not complete trash lol
+🎓  I love programming and like to do random projects and sometimes upload them to github if they're not complete trash lol</br>
+
 👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
  - Currently studying Information Technology at [ADGITM](https://adgitmdelhi.ac.in/) affiliated by [GGSIPU](http://www.ipu.ac.in/)
