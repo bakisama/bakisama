@@ -4,6 +4,7 @@
 
 <!--------- HEAD SECTION END-------------->
 ### I'm Divyansh Sevta 
+
    an Open Source Enthusiast, Competitive Programmer and more! loves Anime and Manga, always learning new things, ready for discussions and collabarating on projects etc.
 
 - 🔭 I’m currently working on my MERN Stack 
@@ -13,6 +14,7 @@
 - 📫 How to reach me: [dsevta@gmail.com](mailto:dsevta@gmail.com) & [Instagram @d.sevta18](https://www.instagram.com/d.sevta18/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of   <img src="./images/shiba.png" width="17px" height="17px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakisama&label=Profile%20views&color=0e75b6&style=flat-square" alt="bakisama" /> </p>
 
 ### Programming Languages 🌐
 
