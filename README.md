@@ -4,7 +4,7 @@
 
 <!--------- HEAD SECTION END-------------->
 ### I'm Divyansh Sevta 
-    an Open Source Enthusiast, Competitive Programmer and more! loves Anime and Manga, always learning new things, ready for discussions and collabarating on projects etc.
+   an Open Source Enthusiast, Competitive Programmer and more! loves Anime and Manga, always learning new things, ready for discussions and collabarating on projects etc.
 
 - 🔭 I’m currently working on my MERN Stack 
 - 🌱 I’m currently learning Data Structure and Algorithms
