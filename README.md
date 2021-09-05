@@ -72,9 +72,6 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-![connect-with-me.png](./images/connect-with-me.png)
-
-
 <p align="center">
 <a href="https://twitter.com/DivyanshSevta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DivyanshSevta" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dsevta " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dsevta_linkedIn" height="30" width="40" /></a>
