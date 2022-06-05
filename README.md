@@ -1,4 +1,4 @@
-## Hey there <img src="./images/Hi.gif" width="27px">
+## Hey there 
 <!--------- HEAD SECTION------------------>
 <img src="./images/github-banner.png">
 
