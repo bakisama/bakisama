@@ -68,7 +68,7 @@
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=bakisama&theme=react" />
 
-[![bakisama's github activity graph](https://activity-graph.herokuapp.com/graph?username=bakisama&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/bakisama/github-readme-activity-graph)
+[![Bakisama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bakisama&bg_color=040927&color=ffffff&line=6476ce&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
